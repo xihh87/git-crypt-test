@@ -1,1 +1,2 @@
-secreto filter=git-crypt diff=git-crypt
+secreto-dev filter=git-crypt-dev diff=git-crypt-dev
+secreto-prod filter=git-crypt-prod diff=git-crypt-prod
